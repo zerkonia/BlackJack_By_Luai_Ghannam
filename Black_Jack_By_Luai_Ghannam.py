@@ -1006,16 +1006,3 @@ new_dealer =  Dealer()
 player1 = Player('Luai',1000)
 new_table = Table(player1, new_dealer,Deck())
 new_table.game_logic()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
